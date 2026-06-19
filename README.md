@@ -110,7 +110,7 @@ df -i :- dispaly inode usages information
 
 
 USERS COMMANDS:---------------------------------------------------------
-================
+--------------
 sudo useradd -m <username>:- to crate the user
 cat /etc/passwd:- this will check to create user or not
 sudo gruoupadd <group name>:- to create the group
@@ -118,10 +118,24 @@ sudo passwd <user name>:- it will acess for new pass for user
 sudo usermod -ag <group name> < user name>:- add this this user to group
 /etc/passwd:- to save the passwd
 
-================================================================================================================================
-=================================================================================================================================
+=======================================================================
+LVM:- LOGICAL VOLUME MANAGEMENT:-
+----------------------------
+lvm organize storage into three main hierarchical 
+lvm is a storage mangement system in linux that allow you to create, resize, and manage disk partition
 
-
+components of lvm:-
+1) PV:- PHYSICAL VOLUME
+                 physical disk or partition used by lvm
+2) VG:- volume group
+                  collection of one or more physical volume
+                   act like a storage pool
+3) LV:- logical volume
+                   virtual partition created from a volume group 
+COMMANDS :-
+       1) pv display
+       2) vg display
+       3) lv display
 
 
 
