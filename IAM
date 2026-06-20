@@ -1,0 +1,34 @@
+IAM:- 
+
+IAM  stand for identity acess managment
+that helps you securely manage acess to aws resouces 
+it allows you to crate user, group,and roles
+use iam to control what is authentication and authorization
+
+AUTHENTICATION:- to check user are sign or not
+
+AUTHERORIZARION:- to check user has permission acess to required or not
+
+features of IAM :-
+----------------
+
+1) user managment
+2) groups managment
+3) roles and permissions
+4) iam polices
+5) mfa (multi factor authentication)
+6) free to use
+
+compoonwnts of IAM:- 
+
+1) USER:-
+        individual aws accounts for people for people or application
+
+2)GROUP:-
+       collection of user with similar permission
+
+3)roles:-
+        temporary permission assigned to user or services
+
+4)polices:-
+         json document that define permission.
