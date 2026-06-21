@@ -1,0 +1,32 @@
+EC2:- elastic compute cloud
+it is a web service provided by aws amazon.com
+that allows user to create and manage virtual server called (instatnce) in the cloud
+foe ec2 instance helps we can run the mobile apps and web application and backend services
+
+
+USES OF EC2 :-
+-------------
+      1) website hosting
+      2) running bussiness application
+      3) development and testing envirnoment
+      4) big data processing
+      5) machine learning workload
+      6) backup & disaster record
+
+HOW TO LAUNCH INSTANCE:-
+-----------------------
+
+     1) login to the aws managment console
+     2) search for amazon ec2 and open it
+     3) click launch instance
+     4) enter an instance name ( eg my server)
+     5) choose an amazon machine image (ami)
+                 .amazon linux 2023
+                 . ubuntu server
+                 . windows server
+     6) select an instance type:-
+                  . free tier: t2 micro or t3 micro
+     7) create a key pair
+     8) configure storage
+     9) revivew all settings
+     10) click launch instance
