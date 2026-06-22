@@ -1,0 +1,20 @@
+AWS S3:-
+-------
+
+
+     1) s3:- simple storage service
+     2) it is a highly scable , secure, & durable objcet storage service.
+     3) used to store any amount of data from anyehere on the web.
+     4) it is like a paltfrom to store your data.
+     5) store the unlimited data.
+     6) it is cost effective
+
+USES OF S3:-
+----------
+
+     1) data storage:- stores files , images , videos , document
+     2) backup & recovery:- stores backup of application & database
+     3) static website hosting:- host static website
+     4) disaster recovery:- keep data safe for recovery during failure
+     5) stores data for anaylitcs & machine learning
+      
