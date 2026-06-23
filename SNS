@@ -1,0 +1,13 @@
+SNS:- 
+    simplw notication service
+
+it is a fully managed messaging services
+that enables you to send notication & messages to multiple subscribers at the same time
+
+USES OF SNS:-
+-----------
+      1) send notication
+      2) application alerts
+      3) system monitoring
+      4) fan out messaging
+      5) event driven architecture
