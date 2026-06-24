@@ -1,0 +1,19 @@
+EFS:- elastic file system
+it is fully managed file storage services
+provided by aws.amazon.com
+it allows multiple ec2 instance to access the same file system simultaneously.
+scalable data storage for amazon ec2 vms
+provide servelss fully elastic storage you can share data without storage capacity.
+
+USES OF EFS;- 
+       1) web application hosting 
+       2) content managment system
+       3) big data & analytics
+       4) container storage
+
+
+FEATURES OF EFS:- 
+       1) fully managed file system
+       2) automatic scaling
+       3) support linux based workloads
+       4) secure data ecryption
