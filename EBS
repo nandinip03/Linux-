@@ -1,0 +1,13 @@
+EBS:- elastic block service
+ebs is a block level storage service
+provided by aws.amazon.com for use with ec2 instance
+it provide presistent storage , meaning your data remains safe even if the ec2 instance is stopped
+ebs allows to create a storage volume & attach them ec2 instance
+in simple term it a storage of ec2 instance
+system srorage for amazon ec2 vms
+
+USES OF EBS:- 
+      1) storing appliocation data 
+      2) databse store
+      3) backup and recovry
+      4) server file system
