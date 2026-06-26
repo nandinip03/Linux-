@@ -1,0 +1,24 @@
+SQS:- simple queue service
+1) it is fully managed messages queuing
+2) that enables differnet application & services to commuincate with each other relability
+
+
+USES OF SQS:- 
+         1) mesage queuing
+         2) decoupling apllication
+         3) load balancing workloads 
+         4) improve realibitly
+
+
+TYPES OF SQS:- 
+     1) standard queue
+     2) fifo queue
+
+1) STANDARD QUEUE:- 
+           best effort ordering (mesaages might be deliverd out of order)
+           use for:- background jobs , notifications , asynchronous workloads
+
+2) FIFO QUEUE:- 
+           first in first out
+           exactly_once processing
+           use for:- payment system , order processing , workflow system
