@@ -1,0 +1,18 @@
+BEDROCK:- 
+     it is a fully managed service that helps developers build & scale generative ai application 
+     aws bedrock is a fully managed generative ai service that aalows developed to build ai application using foundation models without managing infrastructure
+
+
+USES OF BEDROCK :- 
+1) create ai chatbot & virtual assistane
+2) generate text aswering system
+3) create personilzed customer experience
+
+EXAMPLE:- a company can use bedrock to build a customer support chatbot that answer customer question automatically
+
+IMP:-  
+1) it enhanced in 2023
+2) bedrock support serverless operations
+3) integrates with service like amazon s3 for storage , lamda for serveless compute 
+4) amazon bedrock is a severless appliocation or service wiwthin in aws
+5) it is easy ways & secure to build generative ai applaication quickly
