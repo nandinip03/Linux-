@@ -1,0 +1,20 @@
+AWS MANAGER SYTEM:-    
+     aws manager sytem is a managment service.
+     that helps administartor securely monitors manage , automate & and operate aws resource & server at scale from a centralized console
+
+
+USES OF MANGER SYSTEM:- 
+   1) run command:- 
+             execute command an multiple server remotely
+
+  2) session manger:-
+              connnect securely to ec2 instance without ssh or rdp
+
+ 3) patch manager:-
+              automate operating system patching
+              security patches automatics update
+
+4) automation:- 
+              automate repetitive operation task
+
+  
