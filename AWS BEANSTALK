@@ -6,4 +6,21 @@ EXAMPLE:-
     a developer upload a java web application to elastic beanstalk , aws automatically creates ec2 instance , load balancer & auto scaling configruation
 
 
-USES OF BEANSTALK
+USES OF BEANSTALK:-
+
+      1) easy application deployment:-
+                    upload your code & deploy application quickly
+
+      2) auto scaling:-
+                    automatically scales resources based on the traffic
+
+     3) load baalncing:-
+
+     4) monitoring:-
+                   integrates with cloudwatch for monitoring application health
+
+     5)infrastructure managment:-
+                    automatically handle ec2 instance , load balancer & scaling
+
+     6)support language:-
+                    java , python , php , nodes , net , go , docker
