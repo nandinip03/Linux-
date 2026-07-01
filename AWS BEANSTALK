@@ -1,1 +1,9 @@
+beasnstalk is aplatform as a service 
+that makes it easy to deploy, manage & scale web application& service on aws
 
+
+EXAMPLE:- 
+    a developer upload a java web application to elastic beanstalk , aws automatically creates ec2 instance , load balancer & auto scaling configruation
+
+
+USES OF BEANSTALK
