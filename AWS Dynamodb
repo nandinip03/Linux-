@@ -8,3 +8,11 @@ Dynamodb:-
     < highly available
 
 FEATURES:-
+   1) no sql database
+   2) fully managed
+   3) automatic scaling
+   4) backup & restore
+   5) low latency
+
+USES:-
+  1
