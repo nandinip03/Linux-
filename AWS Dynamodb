@@ -15,4 +15,11 @@ FEATURES:-
    5) low latency
 
 USES:-
-  1
+  1) store large amount of data
+  2) high performance
+  3) automatic scaling
+  4) serveless database
+  5) real time application
+  6) high availability
+  7) backup & recovery
+
