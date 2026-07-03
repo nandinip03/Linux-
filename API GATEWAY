@@ -8,3 +8,18 @@ uses of api gateway:-
           4) traffic managment
           5) monitoring
           6) rate limiting
+
+types of api:- 
+    1) rest api:-
+            representational state transfer 
+            it is a web service arctitecture that allows communication between client & server using HTTP methods.
+
+    2) http api:-
+            to send request to any routable http endpoint
+            https api are desigined with minimal features so , they can be afford at a lower prise.
+
+    3) websocket:-
+             use to build real time two way communication 
+             loike as chatbox & live streaming server & clients
+
+
