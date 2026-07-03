@@ -1,0 +1,10 @@
+API GATEWAY:- 
+   amazon api gateway is a fully managed aws service that allows develpoers to create publish , secure , monitor , & manage api at any scale
+
+uses of api gateway:-  
+          1) create aapis 
+          2) connecet application
+          3) security
+          4) traffic managment
+          5) monitoring
+          6) rate limiting
