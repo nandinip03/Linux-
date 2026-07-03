@@ -23,5 +23,9 @@ types of api:-
              loike as chatbox & live streaming server & clients
 
      there are four features of rest api:-
+                1) get :- read krne ke liye
+                2) post:- parameter accept lr rahe ho to use
+                3) put:- update ke liye
+                4) delete:-
                  
 
