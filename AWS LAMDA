@@ -1,0 +1,5 @@
+AWS LAMDA:- 
+       aws lamda is a serveless computing service that lets you run code without managing server
+       lamda intigrates with s3 api gateway, sqs , sns, dynamodb etc
+       secure & control via iam roles
+
