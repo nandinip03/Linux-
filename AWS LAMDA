@@ -21,3 +21,11 @@ FEATURES OF LAMDA:-
       2) autoscaling
       3) pay per use
       4) support multiple language
+      5) intregrate with aws service
+
+
+DISADVANTAGE:-
+
+      1) latency while starting
+      2) limited control of infrastructure
+      3) time limit
