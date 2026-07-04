@@ -3,3 +3,12 @@ AWS LAMDA:-
        lamda intigrates with s3 api gateway, sqs , sns, dynamodb etc
        secure & control via iam roles
 
+
+USES OF LAMDA:- 
+     1) run code without server
+     2) automatic scaling
+     3) event driven processing
+     4) backend for web & mobile application
+     5) data processing
+     6) automatic task
+     7) cost effective
