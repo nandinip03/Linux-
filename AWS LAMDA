@@ -12,3 +12,12 @@ USES OF LAMDA:-
      5) data processing
      6) automatic task
      7) cost effective
+
+EXAMPLE:- when a user upload an image to an s3 bucket , lamda can automatically resize the image & save the resized version
+
+
+FEATURES OF LAMDA:- 
+      1) serveless executions
+      2) autoscaling
+      3) pay per use
+      4) support multiple language
