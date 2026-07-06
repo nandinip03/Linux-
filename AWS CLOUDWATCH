@@ -1,0 +1,9 @@
+AWS CLOUDTCH:-
+  amzon cloudwatch is a monitoring and observalibility services in aws that helps you monitor aws resources & application.
+cloudwatch is used to monitor , log , alert & automate actions for aws resources & applications
+cloudwatch performance operational dta in form of logs & matrix as a single source of truth collecting diffrent sources.
+cloudwatch uses alaram to take automate action
+cloudwatch provide upto 1 sec visibiltity of matrix & logs of data.
+cloudwatch collect & visualize the real time logs , matrix , & even data .
+cloudwatch visulize performance data , create alarms & core releated data to performance issue.
+
