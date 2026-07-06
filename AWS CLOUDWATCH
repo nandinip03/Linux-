@@ -7,3 +7,20 @@ cloudwatch provide upto 1 sec visibiltity of matrix & logs of data.
 cloudwatch collect & visualize the real time logs , matrix , & even data .
 cloudwatch visulize performance data , create alarms & core releated data to performance issue.
 
+USES OF CLOUDWATCH:-
+     1) monitor performance resource
+     2) collect & analyze logs
+     3) create alarms
+     4) support autoscaling
+     5) application monitoring
+     6) create dashboard
+
+
+EXAMPLE:-
+     if an ec2 instance cpu utilization rises 80% above cloudwatch can:-
+           . trigger an alarm.
+           . send an SNS  notification.
+           . launch additional ec2 instance through autoscaling.
+
+
+
