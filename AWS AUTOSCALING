@@ -6,3 +6,11 @@ AUTOSCALING:-
         helps maintain application performance & availibilty
         reduce the cost by using only the required resources 
         works with service like amazon web service, ec2, ecs, dyanpdb
+
+
+TYPES OF AUTOSCLING:-
+ 1) horizantal:- 
+            in horizantal scaling number resoources will be increase or decrease but configrusation remains sam
+2) vertical:-
+            in vertical scaling number of resources will not increase or decrese only configruation we can change but it has some limitations
+
