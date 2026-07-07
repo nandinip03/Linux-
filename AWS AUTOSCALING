@@ -1,0 +1,8 @@
+AUTOSCALING:-       
+        autoscaling is a service that auyomayically adjust thee number of resources (such as ec2 instance ) based on application demand 
+        autoscaling is a service that automatically increase or decrease aws resources according to application demand to ensure hight avalibility
+        automaticaaly add resouces when traffic increase 
+        automatically removes resouce when traffic decrese 
+        helps maintain application performance & availibilty
+        reduce the cost by using only the required resources 
+        works with service like amazon web service, ec2, ecs, dyanpdb
