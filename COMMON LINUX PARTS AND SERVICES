@@ -1,21 +1,21 @@
 PART           SERVICE         PROTOCOL         DESCRIPTION
+  
+21             FTP             TCP              file transfer protocol
 
-21             FTP             TCP
+22             SSH             TCP              secure remote login
 
-22             SSH             TCP
+25             SMTP            TCP              email transfer
 
-25             SMTP            TCP
+53             DNS             TCP/UDP          denim name resoulation
 
-53             DNS             TCP/UDP
+80             HTTP            TCP              web traffic
 
-80             HTTP            TCP
+443            HTTPS           TCP              secure web traffic
 
-443            HTTPS           TCP
+110            POP3            TCP              email retrivet      
 
-110            POP3            TCP
+143            IMAP            TCP              email managment
 
-143            IMAP            TCP
+3306           MYSQL           TCP              databse services
 
-3306           MYSQL           TCP
-
-5432           POSTGRESQL      TCP
+5432           POSTGRESQL      TCP              database services
