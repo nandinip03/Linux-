@@ -1,0 +1,21 @@
+PART           SERVICE         PROTOCOL         DESCRIPTION
+
+21             FTP             TCP
+
+22             SSH             TCP
+
+25             SMTP            TCP
+
+53             DNS             TCP/UDP
+
+80             HTTP            TCP
+
+443            HTTPS           TCP
+
+110            POP3            TCP
+
+143            IMAP            TCP
+
+3306           MYSQL           TCP
+
+5432           POSTGRESQL      TCP
