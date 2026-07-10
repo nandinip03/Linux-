@@ -1,0 +1,23 @@
+PROTOCOL          LAYER               PURPOSE                                EXUSE
+
+TCP               TRANSPORT           realible connection oriented           web service database
+
+VDP               TRANSPORT           fast connectionless                    streaming , dns , queries
+
+IP                NETWORK             routing packets                        internet commuincation
+
+ICMP              NETWORK             error reporting diagnostics            ping , traceroute
+
+HTTP/S            APPLICATION         web traffic                            browser , apis
+
+SSH               APPLICATION         secure remote login                    server adminstator
+
+DNS               APPLICATION          domain name resoulation               website accesee
+ 
+SMTP              APPLICATION          email transfer                        mail server
+
+DOCP              APPLICATION          dynamic ip asstistment                client networking
+
+NTP               APPLICATION          time sychronization                   system clocks
+ 
+BGP/BSPF          NETWORK              routing betwen networks               isps, enterprise network
