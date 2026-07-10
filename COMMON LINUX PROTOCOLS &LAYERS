@@ -20,4 +20,4 @@ DOCP              APPLICATION          dynamic ip asstistment                cli
 
 NTP               APPLICATION          time sychronization                   system clocks
  
-BGP/BSPF          NETWORK              routing betwen networks               isps, enterprise network
+BGP/BSPF          NETWORK              routing betwen networks               isps, enterprise networ
