@@ -1,0 +1,12 @@
+load balancer architecture:-
+           maintain lb is diffcult
+           it must be highly available
+           it must be highly scalabale  
+            it will approve all request & route traffic to appropriate ec2 web server
+           htttp port 80
+           https port 448
+
+
+
+            
+           
