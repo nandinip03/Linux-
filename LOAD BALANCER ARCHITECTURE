@@ -13,3 +13,8 @@ load balancer architecture:-
 3) NETWORK LOAD BALANCER
 4) GATEWAY LOAD BALANCER
 
+1) CLASSICAL LOAD BALANCER:-
+     claassical load baalncer is an old type of aws elastic load balancer that distribute incoming application traffic acrorss multiple ec2 instance
+     distribute traffic to multiple server
+     send traffic only to healthy instance
+     support http, https, tcp, & ssl
