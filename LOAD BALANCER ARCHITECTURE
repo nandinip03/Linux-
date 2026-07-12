@@ -18,3 +18,11 @@ load balancer architecture:-
      distribute traffic to multiple server
      send traffic only to healthy instance
      support http, https, tcp, & ssl
+
+
+   FEATURES                    DESCRIPTION
+1)layer support                layer 4 & 7
+2)protocol                     http, https, tcp, ssl
+3)health check                 yes
+4)ssl offloading               yes
+5)session stickness            yes
