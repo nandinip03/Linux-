@@ -7,6 +7,9 @@ load balancer architecture:-
            https port 448
 
 
+  TYPES OF LOAD BALANCER:-
+1) CLASSICAL LOAD BALANCER
+2) APPLICATION LOAD BALANCER
+3) NETWORK LOAD BALANCER
+4) GATEWAY LOAD BALANCER
 
-            
-           
