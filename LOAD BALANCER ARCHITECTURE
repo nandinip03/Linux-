@@ -38,3 +38,14 @@ DISDVANTAGES OF LBA:-
 1) older technology 
 2) limited routing features
 3) less efficient than alb & nlb
+
+
+2) APPLICATION LOAD BALANCER:-
+-----------------------------
+                 an application load balancer is a type of load balancer in amazon web service that distributes incoming application 
+                        across multiple target such as ec2 instance, containers, & ip address.
+
+uses:-
+     1) hosting website
+     2) microservice architecture
+     3) routing api traffic
