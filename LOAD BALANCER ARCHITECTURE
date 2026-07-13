@@ -49,3 +49,12 @@ uses:-
      1) hosting website
      2) microservice architecture
      3) routing api traffic
+
+
+3)GATEWAY LOAD:-
+---------------
+      use for firwall & security appliances
+
+4) NETWORK LOAD:-
+----------------
+        to use application & microservices
