@@ -5,4 +5,12 @@ DATABASE:-
 
 TYPES OF DATABASE:-
     1) structured data:-
-            
+              organized in a fixed formmat
+              easy to store in databse
+              eg:- excel shet, sql tables, employee information, dept info, account info
+
+2) unstructured data:-
+              no fixed format or structure
+              harder to oragnize & anlyze
+              eg:- imagees, videos, audio, social meadia, post.
+              
