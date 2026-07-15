@@ -1,0 +1,11 @@
+1. iam role - which will be able to use with ,managment console also
+              create iam user in another account with whom u want to share acess
+              that user should have admin acess in his control
+              copy arn this user
+              now login to you acount & select anothr account opion & add other user account number
+              attach s3 readonly policies to this new role
+              give role name anything & save
+              now update trust relationship with IAM user arn to another account
+              we can not share with root
+              after save copy linksswitch role & share with another account iam user
+              ask him to login first as iam use &then paste this link to  switch to your account
