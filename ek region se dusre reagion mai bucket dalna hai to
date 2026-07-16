@@ -1,3 +1,13 @@
 1. 2 reason mdi bucket bnavne new
 2. jya reason mdl bucket dusrya region mdi patvych asel tr
 3. managment mdi jaun create replication rule selct krych
+4. enter rule name
+5. status enable krych 
+6. choose a rule scope:- apply to all object in bucket
+7. destination:- choose bkt in this account
+8. bucket name:- jisme bucket dalna hai vo region
+9. iam role:- create new role
+10. destanation storage class - select
+11. storage class - standard IA
+12. save
+13. upload file
