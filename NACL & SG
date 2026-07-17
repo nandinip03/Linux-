@@ -12,3 +12,8 @@ SG:- applied selectively individual instance
      manadtory for all instance
      only inbound rule defined
      it is stateful
+
+
+questions:- i want to block a specific id address to hit my vpc which will help me NACL & SG
+      -------> nacl:- in sg you  can only allow a particular traffic to come in, there is no option to deny
+              in nacl i have both option to allow & deny
