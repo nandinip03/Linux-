@@ -1,0 +1,7 @@
+NACL:- nacl has a higher power than sg
+     nacl gets evaultaed before sg
+     ecah subnet in your vpc must be associated with a nacl
+     nacl can be associated with multiple subnet      
+     however, a subnet only be association with one nacl at a time
+
+     
