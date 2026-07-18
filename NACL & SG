@@ -21,7 +21,7 @@ questions:- i want to block a specific id address to hit my vpc which will help 
 
 
 SG                                                                                            NACL
-
+=========================================================================================================================================================================
 applied selectively individual instance                                              automatically applied to all instance in associated subnet
 operate at instance level                                                            oprates at subnet level
 support only allow rule                                                              both allows and deny stateles  return traffic must be effectively allowed by rules
@@ -29,3 +29,4 @@ stateful return traffic is automatically allowed regardless of any rules        
 mandatory for all instance                                                           it is stateless
 only inbound rules defined                                                           both inbound & outbound rules needs to defined
 it is stateful
+=========================================================================================================================================================================
