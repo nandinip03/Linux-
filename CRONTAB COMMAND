@@ -1,0 +1,20 @@
+CRONTAB:-
+
+
+     A cronjob is a scheduled task that allows you to run scripts or sschedule times without manul interventions
+     eg:- backing up files , running sytem maintaince, or sending email reports
+
+COMMANDS:- 
+    CRONTAB -E:-
+              to edit crontab
+
+    crontab -l:-
+              how to view your current cron job
+
+   crontab -r:-
+            to delete cron
+
+
+
+  
+           
