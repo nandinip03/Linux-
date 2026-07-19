@@ -14,6 +14,23 @@ COMMANDS:-
    crontab -r:-
             to delete cron
 
+WHY USE:-
+     cron job automate repetitive task ensuring they run at scheduled time without manul intervention
+
+HOW DOES CRON WORK:-
+       corn uses a danemon called cron execute scheduled task
+       the configrutaion for these is stored in a file called a crontab
+
+    syntax:-
+
+     1.* - minute (0-59)
+     2.* - hour (0-23)
+     3.* - day of the month (1-31)
+     4.* - month (1-12)
+     5.* - day of the week (o-7) 
+
+
+
 
 
   
