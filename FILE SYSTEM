@@ -1,0 +1,29 @@
+os stores & manage data on partitons using a structure called file system
+filesystem includes files , directories & its releadtes permission
+it stores data in hierchy of directories & files
+
+
+types of file system:-
+1. ext3
+2. ext4
+3. xfs
+4. btfs
+
+/bin:-
+    contaiin essential user binaries such as commond like ls ,cp , etc
+
+/etc:-
+    holds sytem configruation file 
+eg:- user network , service , system app
+
+/home:-
+    contain the personal directories of all users
+
+/root:-
+     the name directory for the root user
+
+/var:-
+     where variable data such as logs & database are stored
+
+/tmp:-
+    temporary files created by system and user.
