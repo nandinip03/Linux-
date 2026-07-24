@@ -1,0 +1,17 @@
+DEVOPS:-
+    devops is a combination of development & operation (dev & ops)
+    it is a set of practise ,tools & culture that helps software development
+    & IT operations team work together to build , test, deploy, & maintain aplliaction & more reliably.
+
+Devops lifecycle:-
+    DEV:- 
+       1)plan 
+       2)code
+       3)build
+       4)test
+
+    OPS:-
+       1)release 
+       2)deploy
+       3)operate
+       4)monitor
