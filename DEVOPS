@@ -22,3 +22,11 @@ BENEFITS:-
       better security
       improved security
       high availabilty of application
+
+category                       tools
+
+version control                git , github.com
+ci/cd                          jenkins.io gitlab.com
+containers                     docker.com
+conatiners orchestration       kubernets.io
+infrastructure as a code       terrfarom.io
