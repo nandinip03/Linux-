@@ -27,3 +27,10 @@ FEATURES:-
      5) state managment
      6) reausable modules
      7) automation fridenly
+
+COMMANDS:-
+     1) terraform init
+     2) validate
+     3) fmt
+     4) plan
+     5) apply
