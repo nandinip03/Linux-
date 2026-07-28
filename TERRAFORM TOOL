@@ -14,3 +14,16 @@ USES:-
 
     3) MULTIENVIRNOMENT MANAGMENT:-
                manage develpoment , testing , & production envirnoment
+
+    4) DISASTER RECOVERY:-
+              recreate infrastructure quickly using code
+
+
+FEATURES:-
+     1) infrastructure as a code
+     2) multicloud support
+     3) declarative support
+     4) execution plan
+     5) state managment
+     6) reausable modules
+     7) automation fridenly
