@@ -3,3 +3,14 @@ TERRAFORM:-
     it allows you to crate , manage . & update cloud infrastructure using code instead of manul configruation
 
 USES:-
+    1) CREATE LAUNCH INFRASTRUCTURE:-
+             launch ec2 instance
+             create vpcs
+             configure load balancer
+             create s3 bucket
+
+    2) INFRASTRUCTURE AUTOMATION:-
+             automatically provision server & networking resources
+
+    3) MULTIENVIRNOMENT MANAGMENT:-
+               manage develpoment , testing , & production envirnoment
