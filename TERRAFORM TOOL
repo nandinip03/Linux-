@@ -34,3 +34,20 @@ COMMANDS:-
      3) fmt
      4) plan
      5) apply
+
+TERRAFORM INIT:-
+        downloads required provider & module
+
+TERRAFORM VALIDATE:-
+         checks whether thr terraform configuration is valid
+
+TERRAFORM FMT:-
+         formats code according to standard style
+
+TERRAFORM PLAN:-
+          shows what changes terraform will make applying them 
+          before we create actual infra we can see plan
+
+TERRAFORM APPLY:-
+          create or update infrastructure 
+        this will execute you code plan
