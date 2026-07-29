@@ -51,3 +51,12 @@ TERRAFORM PLAN:-
 TERRAFORM APPLY:-
           create or update infrastructure 
         this will execute you code plan
+
+TERRAFORM DESTORY:-
+           delete all resources managed by terraform
+           it will all remove resources
+
+TERRAFORM SHOW
+TERAFORM LIST
+TERRAFORM OUTPUT
+TERRAFORM VERSION
