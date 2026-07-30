@@ -60,3 +60,10 @@ TERRAFORM SHOW
 TERAFORM LIST
 TERRAFORM OUTPUT
 TERRAFORM VERSION
+
+
+terraform is an open source infrastructure as a code tool
+it support multi cloud envirnoments allowing consistent & efficient infrastructure managmnet
+it use .tf extension
+foramt is HCl ( hashocorp config language)
+terraform support JSON format also
