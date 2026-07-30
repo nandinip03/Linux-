@@ -67,3 +67,13 @@ it support multi cloud envirnoments allowing consistent & efficient infrastructu
 it use .tf extension
 foramt is HCl ( hashocorp config language)
 terraform support JSON format also
+--------------------------------------------------------------------------------------------------
+
+10 QUESTIONS AND ANSWERS:-
+
+1 what is terraform:-
+  IAC means managing infrastructure ( server , network , database) through code instaed of manual configraution
+
+2 what is terrfaorm provider:-
+ provider are plugins that allow terraform to interact with cloud platform like aws , mocrosoft , azure & microsoft azure & goggle cloud
+
